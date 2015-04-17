@@ -1,5 +1,6 @@
-This is a talk I gave at a Pitt CS club meeting on November 17, 2014.
+This is a talk I gave at Erie Day of Code on April 25, 2015.
 
+[View the slides!](http://carols10cents.github.io/eriedayofcode/#0)
 
 The html/CSS/js is blatantly stolen from a talk [Dan Buch](http://github/meatballhat) gave at the Pittsburgh Ruby Meetup on October 3rd, 2013.
 
