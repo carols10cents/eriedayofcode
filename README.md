@@ -5,12 +5,18 @@ This is a talk I gave at Erie Day of Code on April 25, 2015. The slides probably
 Here are some links to stuff I mention during the talk:
 
 * [Think Through Math](http://www.thinkthroughmath.com), where I work
-* [tweet by @DRMacIver](https://twitter.com/DRMacIver/status/585718236404125696): "It's 100% OK for your open source project to be shitty and you shouldn't feel even slightly bad about it."
+* [tweet by @DRMacIver](https://twitter.com/DRMacIver/status/585718236404125696): "It's 100% OK for your open source project to be shitty and you shouldn't feel even slightly bad about it." [and associated article](http://www.drmaciver.com/2015/04/its-ok-for-your-open-source-library-to-be-a-bit-shitty/)
+* [24 pull requests](http://24pullrequests.com/projects), a project run in december but has a great list of projects
+* [codemontage](https://www.codemontage.com/projects), OSS social impact projects
+* [docsdoctor](http://www.docsdoctor.org/), will email you undocumented methods/classes
+* [illacceptanything project](https://github.com/illacceptanything/illacceptanything)
 
 
 ## Image credits
 
-* Carl Sagan By NASA/JPL [Public domain], [via Wikimedia Commons](http://commons.wikimedia.org/wiki/File%3ACarl_Sagan_Planetary_Society.JPG)
+* Carl Sagan by NASA/JPL [Public domain], [via Wikimedia Commons](http://commons.wikimedia.org/wiki/File%3ACarl_Sagan_Planetary_Society.JPG)
+* My god it's full of stars cat [via imgur](http://imgur.com/vxlNkub), who allows for noncommercial reuse
+* Santa with dog by [Mdk572](http://commons.wikimedia.org/wiki/User:Mdk572), CC BY-SA 3.0 [via Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Acd_santa.jpg)
 
 
 
