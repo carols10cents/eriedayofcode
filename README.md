@@ -6,6 +6,7 @@ Here are some links to stuff I mention during the talk:
 
 * [Think Through Math](http://www.thinkthroughmath.com), where I work
 * [tweet by @DRMacIver](https://twitter.com/DRMacIver/status/585718236404125696): "It's 100% OK for your open source project to be shitty and you shouldn't feel even slightly bad about it." [and associated article](http://www.drmaciver.com/2015/04/its-ok-for-your-open-source-library-to-be-a-bit-shitty/)
+* [github press page](https://github.com/about/press) - source for the 9.3M people, 22M repositories number
 * [rubocop](https://github.com/bbatsov/rubocop), a project i'd consider contributing to based on its github page
 * [rust-lang's labels](https://github.com/rust-lang/rust/labels) 😻😻😻😻 in all their glorious organization
 * [24 pull requests](http://24pullrequests.com/projects), a project run in december but has a great list of projects for all year round
